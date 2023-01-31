@@ -82,14 +82,13 @@ header p{
     position: relative;
 }
 .form1 select{
-    width: 100px;
+    width: 110px;
     height: 52px;
     right: 22px;
     color: rgb(0, 0, 0);
     font-size: 15px;
     padding: 0 ;
     border: 1px solid #999;
-    position: relative;
 }
 #generateBtn{
     width: 365px;
